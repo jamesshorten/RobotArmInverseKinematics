@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"shoulderJointAngleElevation"
+			],
+			[
+				"shou",
+				"shoulderJointAngleRotation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RobotState.hpp",
+			"settings":
+			{
+				"buffer_size": 2557,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"snippet pa",
+				"Snippet: Page"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"snippet: f",
+				"Snippet: Figure"
+			],
+			[
+				"snippet it",
+				"Snippet: Itemize"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"toggle min",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 553.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/proposal.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/section5.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/section4.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/section3.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/section2.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/section1.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Papers/My Collection.bib",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/proposal.bib",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/harvard.bst",
+		"/usr/local/texlive/2012/texmf-dist/tex/latex/biblatex/biblatex.sty",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/biblatex.cfg",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools Preferences.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/epr400.cls",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/ProjectProposal.sublime-project",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/ProjectProposal.sublime-workspace",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/.gitignore",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/firstsemreport.bbl",
+		"/Users/James/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/firstsemreport.tex",
+		"/Users/James/Google Drive/Docs/Work/Varsity/EPR 402/Project Proposal/ProjectProposal/firstsemreport.bib",
+		"/Users/James/Documents/test.js",
+		"/Users/James/Google",
+		"/Users/James/$",
+		"/tmp/subl stdin y0nIsn.txt",
+		"/Users/James/@$",
+		"/tmp/subl stdin Bh6mot.txt",
+		"/tmp/subl stdin utkbGk.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Figure",
+			"month",
+			"date",
+			"url",
+			"\\cite{",
+			"citeasnoun",
+			"\\cite{",
+			"citeasnoun",
+			"There is a potential for user injury unless the system is carefully designed",
+			"feed",
+			", ",
+			"The",
+			"used",
+			"METHOD",
+			"citeasnoun",
+			"FU1",
+			"5cm",
+			"kawa",
+			"parencite",
+			"input",
+			"\n*.",
+			"[*.",
+			"STRING"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RobotState.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2537,
+								2537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "RobotState.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bib",
+				"proposal.bib"
+			],
+			[
+				"sec5",
+				"section5.tex"
+			],
+			[
+				"sec",
+				"section4.tex"
+			],
+			[
+				"se",
+				"section1.tex"
+			],
+			[
+				"epr",
+				"epr400.cls"
+			],
+			[
+				"prop",
+				"proposal.tex"
+			],
+			[
+				"",
+				"section2.tex"
+			],
+			[
+				"sec2",
+				"section2.tex"
+			],
+			[
+				"pro",
+				"proposal.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
